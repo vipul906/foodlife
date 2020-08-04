@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foodlife/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/foodlife/static/js/main.eec8bae4.chunk.js",
+    "main.js.map": "/foodlife/static/js/main.eec8bae4.chunk.js.map",
+    "runtime-main.js": "/foodlife/static/js/runtime-main.9c29e903.js",
+    "runtime-main.js.map": "/foodlife/static/js/runtime-main.9c29e903.js.map",
+    "static/js/2.2c631b0c.chunk.js": "/foodlife/static/js/2.2c631b0c.chunk.js",
+    "static/js/2.2c631b0c.chunk.js.map": "/foodlife/static/js/2.2c631b0c.chunk.js.map",
+    "index.html": "/foodlife/index.html",
+    "precache-manifest.9e325608eb52190a6f8f07fb5dec6d9b.js": "/foodlife/precache-manifest.9e325608eb52190a6f8f07fb5dec6d9b.js",
+    "service-worker.js": "/foodlife/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/foodlife/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2c631b0c.chunk.js.LICENSE.txt": "/foodlife/static/js/2.2c631b0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c29e903.js",
+    "static/js/2.2c631b0c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.eec8bae4.chunk.js"
+  ]
+}
